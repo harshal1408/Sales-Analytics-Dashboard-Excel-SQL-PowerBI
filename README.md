@@ -1,4 +1,5 @@
 Sales Analytics Dashboard – Power BI Project
+
 🚀 Project Overview
 
 This project presents an interactive Sales Analytics Dashboard built using Power BI, SQL, and Excel to analyze business performance across regions, products, categories, and payment methods.
