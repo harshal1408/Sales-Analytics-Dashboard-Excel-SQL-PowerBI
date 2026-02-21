@@ -95,7 +95,7 @@ Business Intelligence
 
 📷 Dashboard Preview
 
-(Insert dashboard screenshot here)
+Overview.png
 
 📁 Dataset Details
 
