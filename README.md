@@ -116,5 +116,5 @@ Harshal Patil
 Data Analyst Fresher
 Pune, Maharashtra
 
-LinkedIn: (Add your link)
-GitHub: (Add your link)
+LinkedIn: www.linkedin.com/in/harshal-patil-1b8395354
+GitHub: https://github.com/harshal1408
