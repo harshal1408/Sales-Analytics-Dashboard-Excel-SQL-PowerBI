@@ -94,7 +94,7 @@ KPI Reporting
 Business Intelligence
 
 📷 Dashboard Preview
-
+![Sales Analytics Dashboard](Overview.png)
 
 📁 Dataset Details
 
