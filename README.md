@@ -1,4 +1,4 @@
-Sales Analytics Dashboard – Power BI Project
+Sales Analytics Dashboard (Excel, SQL & Power BI)
 
 🚀 Project Overview
 
